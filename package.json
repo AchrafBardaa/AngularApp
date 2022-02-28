@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "rxjs-compat": "^6.6.7"
+  }
+}
